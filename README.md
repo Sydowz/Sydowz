@@ -1,6 +1,6 @@
 ![João Vitor Sydow (1)](https://user-images.githubusercontent.com/127353837/233852342-ede2dfb9-6642-41de-95a6-de105725ee83.png)
 
-## Hello World ! I am [Sydow](https://www.linkedin.com/in/joao-sydow/) 👋
+## Hi, I am [Sydow](https://www.linkedin.com/in/joao-sydow/) 👋
 
 ### Fullstack dev | Public Speaker | Student 
 
